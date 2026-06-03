@@ -1,4 +1,4 @@
-# 👋 Hi, I'm @Ankitkumar96579
+# 👋 Hi, I'm Ankit Kumar
 
 - 👀 I'm interested in **Web Development, Software Engineering & Open Source**
 - 🌱 I'm currently learning **Full-Stack Development & Cloud Technologies**
