@@ -13,9 +13,9 @@
 I'm a passionate developer who loves exploring new technologies and building impactful solutions. Always eager to learn, collaborate, and contribute to the tech community.
 
 ## 💼 Skills
-- **Languages:** JavaScript, Python, Java
+- **Languages:** JavaScript, Python, Java, C, C++
 - **Frontend:** React, HTML, CSS
-- **Backend:** Node.js, Express
+- **Backend:** Node.js, Express, Python
 - **Tools:** Git, GitHub, Docker
 
 ## 📊 GitHub Stats
